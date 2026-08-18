@@ -1,0 +1,19 @@
+{
+    "name": "MCP.Kernel",
+    "rootNamespace": "MCP",
+    "references": [
+        "GUID:8fd3a860472dcb54d9348d52c163bd9d",
+        "GUID:ba9826881509d4848a90cf1771fb8a80",
+        "GUID:13c228dd05d373d4d8658c58ad7351d5",
+        "GUID:25fdfe25bb090734bb330acc0c93ba94"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

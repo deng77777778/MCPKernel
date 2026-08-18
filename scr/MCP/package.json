@@ -1,0 +1,14 @@
+{
+  "name": "com.deng.mcpkernel",
+  "displayName": "MCP Kernel",
+  "unity": "2019.3",
+  "version": "0.0.6",
+  "description": "\u8fd9\u662f\u4e00\u5ea7\u901a\u8fc7MCP\uff08\u6a21\u578b\u4e0a\u4e0b\u6587\u534f\u8bae\uff09\u5c06AI\u52a9\u624b\u4e0eUnity\u8fde\u63a5\u8d77\u6765\u7684\u6865\u6881\u3002",
+  "keywords": [
+    "ai",
+    "mcp"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.2"
+  }
+}
