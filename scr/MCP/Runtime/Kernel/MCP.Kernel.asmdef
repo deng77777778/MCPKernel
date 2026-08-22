@@ -2,10 +2,10 @@
     "name": "MCP.Kernel",
     "rootNamespace": "MCP",
     "references": [
-        "GUID:8fd3a860472dcb54d9348d52c163bd9d",
-        "GUID:ba9826881509d4848a90cf1771fb8a80",
-        "GUID:13c228dd05d373d4d8658c58ad7351d5",
-        "GUID:25fdfe25bb090734bb330acc0c93ba94"
+        "GUID:07f43acbf4f23e049964a8f665e0cc9d",
+        "GUID:a3c28a2f50183f9428a843fb85858241",
+        "GUID:bdeed79e796a23c4c9b30604eac059d0",
+        "GUID:50f450cada623a641a0b22866bccb837"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
